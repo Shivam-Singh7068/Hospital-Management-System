@@ -60,10 +60,11 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    bash
-    git clone https://github.com/Shivam-Singh7068/Hospital-Management-System.git
-    cd Hospital-Management-System.git
-    git clone https://github.com/Muskangiri8034/Hospital-Management-System.git
-    cd Hospital-Management-System
+    - git clone https://github.com/Shivam-Singh7068/Hospital-Management-System.git
+       -cd Hospital-Management-System.git
+   
+     - git clone https://github.com/Muskangiri8034/Hospital-Management-System.git
+        -cd Hospital-Management-System
 
 3. Install the dependencies for both the frontend and backend:
    bash
